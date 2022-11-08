@@ -49,6 +49,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ronddev&show_icons=true&locale=en&theme=radical" alt="ronddev" />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ronddev&theme=radical" alt="ronddev" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ronddev&theme=radical" alt="OliverAlsori" />
 
 <img align="center" src="https://github.com/OliverAlsori/OliverAlsori/edit/README.md/README.md" alt="OliverAlsori" /></p>
